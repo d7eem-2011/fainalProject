@@ -6,7 +6,7 @@ from wtforms.validators import InputRequired, length
 from flask_sqlalchemy import SQLAlchemy
 
 
-
+test from abdziz
 app = Flask(__name__)
 app.config['SECRET_KEY'] = 'LATTER'
 app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:////Users/abdalrhmn/PycharmProjects/finalProject/databes.db'
